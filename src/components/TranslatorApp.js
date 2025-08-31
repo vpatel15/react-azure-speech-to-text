@@ -91,7 +91,6 @@ const TranslatorApp = () => {
           <option value="es">Spanish</option>
           <option value="fr">French</option>
           <option value="de">German</option>
-          <option value="mr">Marathi</option>
           <option value="hi"> Hindi</option>
         </select>
       </div>
